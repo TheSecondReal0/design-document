@@ -88,6 +88,10 @@ The task is only available based on a preconfigured time, such as a specific
 round (in a round based game like the document collection) or within a set time
 window.
 
+##### Sync tasks
+
+Tasks where 2 or more players must do something at the same time, like 2 
+players turning keys simultaneously to open a door.
 
 ### Task distribution
 
